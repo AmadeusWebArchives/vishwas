@@ -5,7 +5,7 @@ The spiritual processes are all processes which can cause a shift in one's ident
 These non-ordinary states are  sometimes described as "a waking dream, where the line between reality and the psyche blurs and bends". They can feel 'realer than real' and are a valuable part of our shared humanity. 
 Non-Ordinary states and experiences include visions, voices, precognition, telepathy, entities, uncanny synchronicities, changes to energy systems and traveling to different domains of the psyche and visiting archetypes and guiding figures, can be accompanied by Kundalini Awakening, out of body experiences or third eye opening. 
 
-</section><section>
+---
 
 # Spiritual Phenomena
 
@@ -21,13 +21,13 @@ We believe in harm reduction with psychiatric drugs as too much of the drugs ben
 
 However, when in this state, one needs to be around people who believe and know these energies and can guide in the process so one is not overwhelmed.  It is not always possible for mental health workers who have not had first-hand experience of these energies to understand and empathize with the persons going through these processes.  Often the persons affected are termed as manic, or high and dismissed with antipsychotic medications.  It is only possible for persons who have had these lived experiences to guide and support through this process.  Therefore, having peer support in these turbulent times or precarious moments can be extremely crucial in providing guidance and support as well as helping one manage their condition.
 
-</section><section>
+---
 
 # Breaking down or breaking through?
 
 Are you breaking down so that you can break through? Mental health Healing through a Spiritual process
 
-Have you or any of your loved ones ever been ridiculed or shunned for having a bizarre or out of the world spiritual experience? And did you find yourself feeling helpless, not knowing where to go. The usual pathway to support persons experiencing severe depression, fear, anxiety, mania, or similar symptoms is to be seen by a mental health professional – a counsellor, therapist or psychiatrist who is trained in modern psychiatry. Modern psychiatry loves to classify and bracket individuals under various diagnostic and disease criteria often labelling them as bipolar, depressive, maniac or schizophrenic. It disregards the fact that one size does not fit all and that one's boon could be another person's bane. In other words, not everyone feels comfortable being treated in a hospital, taking psychotropic drugs or being rehabilitated in an asylum for their illness.
+Have you or any of your loved ones ever been ridiculed or shunned for having a bizarre or out of the world spiritual experience? And did you find yourself feeling helpless, not knowing where to go. The usual pathway to support persons experiencing severe depression, fear, anxiety, mania, or similar symptoms is to be seen by a mental health professional ï¿½ a counsellor, therapist or psychiatrist who is trained in modern psychiatry. Modern psychiatry loves to classify and bracket individuals under various diagnostic and disease criteria often labelling them as bipolar, depressive, maniac or schizophrenic. It disregards the fact that one size does not fit all and that one's boon could be another person's bane. In other words, not everyone feels comfortable being treated in a hospital, taking psychotropic drugs or being rehabilitated in an asylum for their illness.
 
 Mental well-being is important for realising one's full potential and is critical for everyone everywhere. Acceptable models for treatment for mental health ailments largely follow the Western medical paradigm that is based on the chemical imbalance theory requiring treatment with highly addictive and strong medication and hospitalisation in case of severe diagnosis subjecting them to trauma and distress. Globally, people suffering with mental health conditions experience a wide range of human right violations. Rather than open air green spaces, the battle with mental health is fought in asylums and caged chambers even till today.
 
@@ -37,7 +37,7 @@ Amidst this backdrop, there is a growing grassroots movement of spiritual awaken
 
 Receiving the right kind of guidance for identifying one's illness is extremely important. Social media is flooded with groups, discussions, webinars and forums of support for mental health and spiritual healing, garnering support from practitioners of modern medicine - psychiatrists, psychotherapists, social workers and psychiatric survivors who demand alternative treatments that focus on recovery, nurturing social connections, and finding meaning. The American Center for the Integration of Spiritually Transformative Experiences (ACISTE) and the International Spiritual Emergence Network (ISEN) provide opportunities for education, narration and experience sharing.  
 
-</section><section>
+---
 
 # Awareness on Spiritual Processes
 
@@ -54,7 +54,7 @@ Nevertheless, cultural healing practices must not just be limited to indigenous 
 
 Since the experience of spiritual awakening is so profound, surreal, and inflicting upon one's sense of being, it becomes unmanageable, isolating, terrifying and confusing. Collectively the group calls out the vital need for crisis support, safety and understanding.  The stories of positive transformative process must be heard. Conversations must begin around an alternative healing space that nurtures an environment for letting out anger through a process of positive catharsis led by peer support and multi-dimensional approach. A place where individuals feel supported, guided, and grounded rather than feeling demonic and delusional.
 
-</section><section>
+---
 
 # Being adjusted to spiritual emergence
 

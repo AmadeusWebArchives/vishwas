@@ -6,7 +6,7 @@ Peer support is generally described as promoting a wellness model that focuses o
 
 It is defined as social, emotional support, frequently coupled with instrumental support, that is mutually offered or provided by persons having a mental health condition to others sharing a similar mental health condition to bring about a desired social or personal change.  
 
-</section><section>
+---
 
 # Reduced Hospitalizations
 
@@ -14,7 +14,7 @@ It seems prudent to mention that a result of no difference demonstrates that peo
 
 The majority of the wider evidence on admission rates report positive results, suggesting that people engaging in peer support tend to show reduced admission rates and longer community tenure. There have been claims of 15-50% reduction in hospitalizations among patients who availed peer-support services.  
 
-</section><section>
+---
 
 # Empowerment
 
@@ -22,19 +22,19 @@ A raised empowerment score has been reported in several studies of peer support 
 
 Furthermore, participants reported gaining control of their symptoms, and moving away from the traditional role of 'mental patient'.  Several studies show improvement in self-esteem and confidence.  
 
-</section><section>
+---
 
 # Social support and social functioning
  
 Social isolation is often one of the most significant challenges faced by individuals with mental health problems.   This is helped by meaningful relationships with peer-support workers.  
 
-</section><section>
+---
 
 # Benefits for Peer Support Workers 
 
 Aiding continuing recovery:  Giving peer support, like receiving it, results in increased sense of self-esteem and self confidence. In fact it has been shown that providing peer support is more beneficial than receiving it in terms of self-esteem, and empowerment. 
 
-</section><section>
+---
 
 # Peer Support in India
 
@@ -44,7 +44,7 @@ India's population in 2011 was 1.2 billion, and it was estimated that 1-2% of pe
 
 Although India has a vibrant innovation culture around task shifting/task sharing, there have been no attempts until recently to use peer support services for mental health.  This is partly because of the mental health policy and the Mental Health Care Act in 2017, which does not provide provision for peer support services in a hierarchical structure of the mental health workforce in India.
   
-</section><section>
+---
 
 # Examples of Peer Support
 

@@ -4,7 +4,7 @@ Persons with mental illness and their families become isolated from society. The
 
 Vishwas is an organization where we believe that with support and guidance all persons who are in a spiritual journey but termed as mentally ill, will blossom into their full selves and change the world!
 
-</section><section>
+---
 
 # Why Vishwas
 
@@ -16,7 +16,7 @@ Here 'conviction' also points towards a feeling of certainty and that something 
 
 Vishwas are here to support your ideas and thinking in meaningful ways and guide you to the right kind of therapies and support that may heal you in dealing with your mental health crises and emergencies. And lastly vishwas means 'trust' which is going to be the very basis of our work and partnership with you because we believe in you and your understanding of your world and we expect you to trust us and allow us to support you in your healing process. 
 
-</section><section>
+---
 
 # What is Spirituality
 
@@ -24,7 +24,7 @@ Spirituality is an acknowledged concept. It involves belief, experience and for 
 
 Of late, there are some reports which suggest that some areas of the brain, mainly the nondominant one, are involved in the appreciation and fulfillment of spiritual values and experiences. However, universal consciousness is much beyond the physical brain and even our minds.
 
-</section><section>
+---
 
 # Spiritual Processes
 

@@ -2,7 +2,7 @@
 
 Allopathic Medicines including mood stabilizers and antipsychotics in small doses to keep enough chemical pressure to reduce the energy to manageable level but not make a person completely drowsy and dysfunctional.  As said we believe in harm reduction and not force antipsychotic medications which cause benumbing and excessive somnolence.  All antipsychotics and antidepressants impair mitochondrial function thus decreasing the energy function. 
 
-</section><section>
+---
 
 # Ayurveda
 
@@ -11,9 +11,9 @@ Ayurveda Treatments including Takradhara (medicated buttermilk on the forehead) 
 There's extensive literature on the benefits of these therapies for balance of spiritual energies during the non ordinary states of consciousness or manic highs.  
 There are well established centers and systems to help in this regard.  
 
-<img src="%nodeUrl%assets/misc/takradhara.jpg" class="img-fluid" />
+<img src="%node-assets%misc/takradhara.jpg" class="img-fluid" />
 
-</section><section>
+---
 
 # Gut-Brain Health
 
