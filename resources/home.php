@@ -44,11 +44,12 @@ function renderItems($onlyCat) {
 function renderMenu($items) {
 	contentBox('resources-list', 'container mt-5 box-like-list after-content');
 	h2('Resource Categories @ ' . variable('nodeSiteName'));
+
 	menu('/', [
 		'ul-class' => '',
 		'files' => $items,
 		'this-is-standalone-section' => true,
-		'parent-slug' => variable('node') . '/' . variable('page_parameter1') . '/',
+		'parent-slug' => variable(SAFENODEVAR) . '/' . getPageParameterAt(3) . '/',
 	]);
 
 	echo HRTAG;

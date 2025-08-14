@@ -1,3 +1,16 @@
+<!--//meta
+About: Vishwas - Supporting individuals and families dealing with mental health challenges through spirituality and guidance.
+Description: Vishwas provides a space for support without judgment, helping individuals on a spiritual journey often misunderstood as mental illness to heal and grow.
+Primary Keyword: mental health support
+Related Keywords: spirituality and mental health, mental illness stigma, family mental health support
+Long-Tail Keywords: spiritual approach to mental health, overcoming stigma through spirituality, mental health guidance and support
+Date: Feb 2024
+Date_mr: 2024-02
+Author: `Fem`
+Published: `Imran` on 6 Jun 2025
+Meta Author: `GitHub Copilot`
+//meta-->
+
 # About Vishwas
 
 Persons with mental illness and their families become isolated from society. They have to suffer because of lack of knowledge, misbeliefs, and stigma. There is no other support or guidance available to them apart from the help from doctors. Often the so-called mental illness is a spiritual process which helps in healing and awakening at a very deep level. It is said that the waters in which a mystic swims in are the same waters in which a person with so-called mental illness drowns in. Our attempt is to help them at least float in these waters. We want to provide a space for support without judgment.

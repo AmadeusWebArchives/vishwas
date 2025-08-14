@@ -2,10 +2,13 @@
 DEFINE('NODEPATH', __DIR__);
 
 variables([
+	'nodeSlug' => $relPath = variable('node') . '/organizations/vishwas',
+	assetKey(NODEASSETS) => fileUrl(variable('section') . '/' . $relPath . '/assets/'),
 	'nodeSiteName' => '<span>Vishwas</span> Mental Health',
 	'nodeSafeName' => 'vishwas-mh',
-	'autofix-encoding' => true,
+	'submenu-at-node' => true,
+	'nodes-have-files' => true,
 ]);
 
-runExtension('node-xt');
-initializeNodeXt('special-site');
+if ($bc1 = variable('sectionBC1'))
+	variable('nodeParent1', $bc1);

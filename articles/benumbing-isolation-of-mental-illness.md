@@ -1,4 +1,15 @@
-<!--markdown-->
+<!--//meta
+About: The isolating effects of mental illness on families and the social stigma surrounding it.
+Description: A personal narrative exploring the challenges of mental illness, its impact on relationships, and the importance of empathy and inclusion in overcoming isolation.
+Primary Keyword: mental illness isolation
+Related Keywords: mental health stigma, family mental health, social withdrawal, support groups
+Long-Tail Keywords: coping with mental illness as a family, overcoming stigma in mental health, mental illness and social relationships
+Date: 30 Sep 2024
+Date_mr: 2024-09-30
+Authored By: `Fem`
+Published: `Imran` on 6 Jun 2025
+Meta Author: `GitHub Copilot`
+//meta-->
 
 **Benumbing Isolation of Mental Illness**
 
