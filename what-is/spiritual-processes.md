@@ -1,3 +1,15 @@
+<!--//meta
+About: Overview of spiritual processes in mental health, exploring their transformative potential and the need for alternative approaches to healing.
+Description: This document examines spiritual processes as non-ordinary states of consciousness often misdiagnosed in psychiatry. It highlights their transformative potential, the importance of peer support, and the integration of traditional and modern healing practices to foster mental well-being.
+Primary Keyword: Spiritual Processes in Mental Health
+Related Keywords: Non-Ordinary States, Spiritual Emergence, Mental Health Healing, Peer Support, Alternative Healing Practices
+Long-Tail Keywords: Transformative potential of spiritual processes, Integrating traditional and modern mental health practices, Peer support in spiritual emergence, Healing through non-ordinary states of consciousness
+Date: August 23, 2025
+Date_mr: 2025-08-23
+Prompted By: `Imran`
+Meta Author: `GitHub Copilot`
+//meta-->
+
 # What is Spiritual Process in Mental Health?
 
 The spiritual processes are all processes which can cause a shift in one's identity and reality, an acknowledgment of the cosmic consciousness, an expanded bandwidth of perception, phenomena which are very transformative if allowed to integrate into one's life.  The phenomena of extraordinary experiences, otherwise known as transpersonal, numinous, transcendent, alternate states of consciousness, mystical or spiritual experiences, peak experiences, extreme states, etc., and their emergence within the mental health system, often labeled as "psychosis" and/or other psychiatric diagnoses are termed spiritual processes. The impact of pathologizing such experiences labeling with psychiatric diagnosis can be harmful. 

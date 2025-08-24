@@ -1,3 +1,15 @@
+<!--//meta
+About: Overview of peer support in mental health, highlighting its principles, benefits, and potential in addressing India's mental health challenges.
+Description: This document explores the concept of peer support in mental health, emphasizing its role in empowerment, social functioning, and reduced hospitalizations. It also discusses the mental health burden in India, the treatment gap, and examples of peer support initiatives like UPSIDES, Burans, and Eklavya Foundation.
+Primary Keyword: Peer Support in Mental Health
+Related Keywords: Mental Health, Peer Support Workers, Empowerment, Social Support, Mental Health in India
+Long-Tail Keywords: Benefits of peer support in mental health, Peer support initiatives in India, Addressing mental health challenges through peer support, Role of peer support workers in empowerment
+Date: August 23, 2025
+Date_mr: 2025-08-23
+Prompted By: `Imran`
+Meta Author: `GitHub Copilot`
+//meta-->
+
 # Authentic Empathy and Validation
 
 At its core, the peer support 'approach' assumes that people who have similar experiences can better relate and can consequently offer more authentic empathy and validation.  
